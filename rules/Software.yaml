@@ -1,5 +1,4 @@
 payload:
-  - DOMAIN-KEYWORD,routerlogin
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,IDMan.exe
   - PROCESS-NAME,LogiOptionsMgr.exe
