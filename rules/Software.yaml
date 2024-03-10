@@ -1,5 +1,7 @@
 payload:
-  - PROCESS-NAME,express.exe
+  - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,IDMan.exe
   - PROCESS-NAME,LogiOptionsMgr.exe
+  - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,express.exe
