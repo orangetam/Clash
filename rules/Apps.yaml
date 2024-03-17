@@ -1,5 +1,5 @@
 payload:
- #PC
+ # programs
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,HRUpdate.exe
   - PROCESS-NAME,HipsMain.exe
@@ -12,7 +12,10 @@ payload:
   - PROCESS-NAME,WeChatPlayer.exe
   - PROCESS-NAME,WeChatUtility.exe
   - PROCESS-NAME,express.exe
-#Chrome
+# extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,tampermonkey.net
+# scripts
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,sleazyfork.org
