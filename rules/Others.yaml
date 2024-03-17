@@ -1,6 +1,11 @@
 payload:
-  - DOMAIN-SUFFIX,netflav5.com
+# Garmin
+  - DOMAIN-SUFFIX,garmin.com
+  - DOMAIN-SUFFIX,garmin.com.hk
+# SMS 
   - DOMAIN-SUFFIX,sms-activate.org
+# Porn
+  - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-SUFFIX,supjav.com
   - DOMAIN-SUFFIX,sxyprn.com
   - DOMAIN-SUFFIX,xmoviesforyou.com
