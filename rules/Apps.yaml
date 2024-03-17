@@ -2,7 +2,6 @@ payload:
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,HRUpdate.exe
   - PROCESS-NAME,HipsMain.exe
-  - PROCESS-NAME,Listary.exe
   - PROCESS-NAME,LogiOptionsMgr.exe
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
