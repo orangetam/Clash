@@ -1,0 +1,29 @@
+payload:
+ # StreamWish
+  - DOMAIN-SUFFIX,fc2stream.tv
+  - DOMAIN-SUFFIX,roseimgs.com
+  - DOMAIN-SUFFIX,streamwish.com
+  - DOMAIN-SUFFIX,sw-cdnstreamwish.com
+  - DOMAIN-KEYWORD,streamwish
+ # Streamtape
+  - DOMAIN-SUFFIX,streamtape.com
+  - DOMAIN-SUFFIX,streamtape.to
+  - DOMAIN-SUFFIX,tapecontent.net
+  - DOMAIN-KEYWORD,streamtape
+ # VOE
+  - DOMAIN-SUFFIX,vincentincludesuccessful.com
+  - DOMAIN-SUFFIX,voe-network.net
+  - DOMAIN-SUFFIX,voe.sx
+ #VidHide
+  - DOMAIN-SUFFIX,enaak-cdn.com
+  - DOMAIN-SUFFIX,mmfl04.com
+  - DOMAIN-SUFFIX,rw7ljljeiyz.net
+  - DOMAIN-SUFFIX,vidhide.com
+ #DOOD
+  - DOMAIN-SUFFIX,d0000d.com
+  - DOMAIN-SUFFIX,doodcdn.co
+  - DOMAIN-SUFFIX,dooood.com
+  - DOMAIN-SUFFIX,video-delivery.net
+ #MIXdrop
+  - DOMAIN-SUFFIX,mixdrop.si
+  - DOMAIN-SUFFIX,mxcontent.net
