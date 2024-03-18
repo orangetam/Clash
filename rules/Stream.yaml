@@ -1,4 +1,6 @@
 payload:
+ #CN
+  - DOMAIN-SUFFIX,freeok.vip
  # StreamWish
   - DOMAIN-SUFFIX,fc2stream.tv
   - DOMAIN-SUFFIX,mmsw02.com
