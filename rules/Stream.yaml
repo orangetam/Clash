@@ -28,3 +28,6 @@ payload:
  #MIXdrop
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
+ #SPTV
+  - DOMAIN-SUFFIX,binsuliv.com
+  - DOMAIN-SUFFIX,sptvp.com
