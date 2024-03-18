@@ -5,12 +5,10 @@ payload:
   - DOMAIN-SUFFIX,roseimgs.com
   - DOMAIN-SUFFIX,streamwish.com
   - DOMAIN-SUFFIX,sw-cdnstreamwish.com
-  - DOMAIN-KEYWORD,streamwish
  # Streamtape
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,streamtape.to
   - DOMAIN-SUFFIX,tapecontent.net
-  - DOMAIN-KEYWORD,streamtape
  # VOE
   - DOMAIN-SUFFIX,vincentincludesuccessful.com
   - DOMAIN-SUFFIX,voe-network.net
