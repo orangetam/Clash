@@ -1,15 +1,15 @@
 payload:
-# Garmin
+ # Garmin
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,garmin.com.hk
-# SMS 
+ # SMS 
   - DOMAIN-SUFFIX,sms-activate.org
-#
+ #
   - DOMAIN-SUFFIX,51cg.fun
   - DOMAIN-SUFFIX,hihbt.org
   - DOMAIN-SUFFIX,hsck.cc
   - DOMAIN-SUFFIX,thzq.cc
-#
+ #
   - DOMAIN-SUFFIX,freejavbt.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,jav321.com
@@ -20,7 +20,7 @@ payload:
   - DOMAIN-SUFFIX,supjav.com
   - DOMAIN-SUFFIX,supremejav.com
   - DOMAIN-SUFFIX,xslist.org
-#
+ #
   - DOMAIN-SUFFIX,bitchesgirls.com 
   - DOMAIN-SUFFIX,coomer.su
   - DOMAIN-SUFFIX,dirtyship.com
