@@ -5,9 +5,12 @@ payload:
 # SMS 
   - DOMAIN-SUFFIX,sms-activate.org
 #
-  - DOMAIN-SUFFIX,freejavbt.com
+  - DOMAIN-SUFFIX,51cg.fun
   - DOMAIN-SUFFIX,hihbt.org
   - DOMAIN-SUFFIX,hsck.cc
+  - DOMAIN-SUFFIX,thzq.cc
+#
+  - DOMAIN-SUFFIX,freejavbt.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,javdragon.com
@@ -16,9 +19,6 @@ payload:
   - DOMAIN-SUFFIX,netflav5.com
   - DOMAIN-SUFFIX,supjav.com
   - DOMAIN-SUFFIX,supremejav.com
-  - DOMAIN-SUFFIX,sxyprn.com
-  - DOMAIN-SUFFIX,thzq.cc
-  - DOMAIN-SUFFIX,xmoviesforyou.com
   - DOMAIN-SUFFIX,xslist.org
 #
   - DOMAIN-SUFFIX,bitchesgirls.com 
@@ -29,4 +29,6 @@ payload:
   - DOMAIN-SUFFIX,lewdstars.com
   - DOMAIN-SUFFIX,nsfw247.to
   - DOMAIN-SUFFIX,prothots.com
+  - DOMAIN-SUFFIX,sxyprn.com
   - DOMAIN-SUFFIX,thotslife.com
+  - DOMAIN-SUFFIX,xmoviesforyou.com
