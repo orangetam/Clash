@@ -1,4 +1,6 @@
 payload:
+ # Web
+  - DOMAIN-SUFFIX,mpyit.com
  # Garmin
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,garmin.com.hk
