@@ -2,6 +2,7 @@ payload:
  # programs
   - PROCESS-NAME,DownloadSDKServer.exe
   - PROCESS-NAME,HRUpdate.exe
+  - PROCESS-NAME,HipsDaemon.exe
   - PROCESS-NAME,HipsMain.exe
   - PROCESS-NAME,LogiOptionsMgr.exe
   - PROCESS-NAME,Thunder
