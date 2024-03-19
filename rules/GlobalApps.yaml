@@ -1,3 +1,5 @@
 payload:
-  - PROCESS-NAME,Telegram.exe
   - PROCESS-NAME,Discord.exe
+  - PROCESS-NAME,GoogleDriveFS.exe
+  - PROCESS-NAME,GoogleUpdate.exe
+  - PROCESS-NAME,Telegram.exe
