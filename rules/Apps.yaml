@@ -22,5 +22,3 @@ payload:
 # scripts
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,sleazyfork.org
-# VLC
-  - DOMAIN-SUFFIX,local
