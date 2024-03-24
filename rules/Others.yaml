@@ -1,4 +1,7 @@
 payload:
+ #Airport
+  - DOMAIN-SUFFIX,taoqitu.lol
+  - DOMAIN-SUFFIX,feitudy.xyz
  # Web
   - DOMAIN-SUFFIX,mpyit.com
  # Garmin
