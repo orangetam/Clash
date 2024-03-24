@@ -1,5 +1,7 @@
 payload:
   - PROCESS-NAME,subconverter.exe
-  - DOMAIN-SUFFIX,taoqitu.lol
-  - DOMAIN-SUFFIX,feitudy.xyz
   - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-SUFFIX,feitu.im
+  - DOMAIN-SUFFIX,feitudy.xyz
+  - DOMAIN-SUFFIX,taoqitu.lol
+  - DOMAIN-SUFFIX,taoqitu.me
