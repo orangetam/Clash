@@ -17,7 +17,7 @@ payload:
 # Logitech
   - PROCESS-NAME,LogiLuUpdater.exe
   - PROCESS-NAME,LogiOptionsMgr.exe 
-#  Garmin
+# Garmin
   - PROCESS-NAME,express.exe
 # Chrome - extensions
   - DOMAIN-SUFFIX,bitwarden.com
