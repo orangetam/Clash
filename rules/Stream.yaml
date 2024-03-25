@@ -1,5 +1,5 @@
 payload:
- #CN
+ # CN
   - DOMAIN-SUFFIX,freeok.pro
   - DOMAIN-SUFFIX,freeok.vip
   - DOMAIN-SUFFIX,jkdy.cc
@@ -19,20 +19,20 @@ payload:
   - DOMAIN-SUFFIX,vincentincludesuccessful.com
   - DOMAIN-SUFFIX,voe-network.net
   - DOMAIN-SUFFIX,voe.sx
- #VidHide
+ # VidHide
   - DOMAIN-SUFFIX,enaak-cdn.com
   - DOMAIN-SUFFIX,mmfl04.com
   - DOMAIN-SUFFIX,rw7ljljeiyz.net
   - DOMAIN-SUFFIX,vidhide.com
   - DOMAIN-SUFFIX,vidhidepro.com
- #DOOD
+ # DOOD
   - DOMAIN-SUFFIX,d0000d.com
   - DOMAIN-SUFFIX,doodcdn.co
   - DOMAIN-SUFFIX,doodcdn.com
   - DOMAIN-SUFFIX,dooood.com
   - DOMAIN-SUFFIX,ds2play.com
   - DOMAIN-SUFFIX,video-delivery.net
- #MIXdrop
+ # MIXdrop
   - DOMAIN-SUFFIX,mixdrop.ag
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
