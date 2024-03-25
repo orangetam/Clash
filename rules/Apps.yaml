@@ -1,24 +1,29 @@
 payload:
- # programs
-  - PROCESS-NAME,DownloadSDKServer.exe
+# Huorong  
+  - PROCESS-NAME,BugReport.exe
   - PROCESS-NAME,HRUpdate.exe
   - PROCESS-NAME,HipsDaemon.exe
   - PROCESS-NAME,HipsMain.exe
-  - PROCESS-NAME,LogiLuUpdater.exe
-  - PROCESS-NAME,LogiOptionsMgr.exe
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Thunder.exe
+# WeChat  
   - PROCESS-NAME,WeChat.exe
   - PROCESS-NAME,WeChatAppEx.exe
   - PROCESS-NAME,WeChatOCR.exe
   - PROCESS-NAME,WeChatPlayer.exe
   - PROCESS-NAME,WeChatUtility.exe
+# Thurder
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Thunder.exe
+ - PROCESS-NAME,DownloadSDKServer.exe
+# Logitech
+  - PROCESS-NAME,LogiLuUpdater.exe
+  - PROCESS-NAME,LogiOptionsMgr.exe 
+#  Garmin
   - PROCESS-NAME,express.exe
-# extensions
+# Chrome - extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,tampermonkey.net
-# scripts
+# Chrome - scripts
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,sleazyfork.org
