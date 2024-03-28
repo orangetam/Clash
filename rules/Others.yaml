@@ -1,5 +1,6 @@
 payload:
  # Web
+  - DOMAIN-SUFFIX,sydney.bing.com
   - DOMAIN-SUFFIX,mpyit.com
  # Garmin
   - DOMAIN-SUFFIX,garmin.com
