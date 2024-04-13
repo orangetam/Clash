@@ -1,6 +1,7 @@
 payload:
   - PROCESS-NAME,subconverter.exe
   - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-SUFFIX,aladingnet.com
   - DOMAIN-SUFFIX,feitu.im
   - DOMAIN-SUFFIX,feitudy.xyz
   - DOMAIN-SUFFIX,ffqla.net
