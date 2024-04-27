@@ -1,5 +1,6 @@
 payload:
  # CN
+  - DOMAIN-SUFFIX,freeok.me
   - DOMAIN-SUFFIX,freeok.pro
   - DOMAIN-SUFFIX,freeok.vip
   - DOMAIN-SUFFIX,jkdy.cc
