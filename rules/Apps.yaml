@@ -13,16 +13,16 @@ payload:
 # Thurder
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
- - PROCESS-NAME,DownloadSDKServer.exe
+  - PROCESS-NAME,DownloadSDKServer.exe
 # Logitech
   - PROCESS-NAME,LogiLuUpdater.exe
   - PROCESS-NAME,LogiOptionsMgr.exe 
 # Garmin
   - PROCESS-NAME,express.exe
-# Chrome - extensions
+# Chrome - Extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
   - DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,tampermonkey.net
-# Chrome - scripts
+# Chrome - Scripts
   - DOMAIN-SUFFIX,greasyfork.org
