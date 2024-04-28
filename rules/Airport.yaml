@@ -1,5 +1,4 @@
 payload:
-  - PROCESS-NAME,subconverter.exe
   - DOMAIN-SUFFIX,aca.best
   - DOMAIN-SUFFIX,aladingnet.com
   - DOMAIN-SUFFIX,feitu.im
@@ -8,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,taoqitu.lol
   - DOMAIN-SUFFIX,taoqitu.me
   - DOMAIN-SUFFIX,xingjiabijichang.com
+  - DOMAIN-SUFFIX,xqc.best
