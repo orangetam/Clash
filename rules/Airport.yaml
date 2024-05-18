@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,000000online.life
+  - DOMAIN-SUFFIX,12345.al
   - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-SUFFIX,acaisbest.shop
   - DOMAIN-SUFFIX,aladingnet.com
   - DOMAIN-SUFFIX,feitu.im
   - DOMAIN-SUFFIX,feitudy.xyz
