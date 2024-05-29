@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,ciciai.com
   - DOMAIN-SUFFIX,ciciaicdn.com
+  - DOMAIN-SUFFIX,coze.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,byteoversea.net
   - DOMAIN-SUFFIX,mousegesturesapi.com
+  - DOMAIN-SUFFIX,oceanapi-i18n.com
