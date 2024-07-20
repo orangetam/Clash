@@ -37,3 +37,5 @@ payload:
   - DOMAIN-SUFFIX,mixdrop.ag
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
+#
+  - DOMAIN-SUFFIX,cdn-jupiter.com
