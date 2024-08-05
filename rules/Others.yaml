@@ -5,6 +5,7 @@ payload:
  # Garmin
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,garmin.com.hk
+  - PROCESS-NAME,express.exe
  # SMS 
   - DOMAIN-SUFFIX,sms-activate.org
  #
