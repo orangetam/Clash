@@ -20,7 +20,7 @@ payload:
   - PROCESS-NAME,LogiLuUpdater.exe
   - PROCESS-NAME,LogiOptionsMgr.exe 
  # Garmin
-  - PROCESS-NAME,express.exe
+  
  # Chrome - Extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
