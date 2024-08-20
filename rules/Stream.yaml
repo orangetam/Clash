@@ -7,6 +7,8 @@ payload:
   - DOMAIN-SUFFIX,oftens.top
   - DOMAIN-SUFFIX,wwys.pro
  # StreamWish
+  - DOMAIN-SUFFIX,cdn-jupiter.com
+  - DOMAIN-SUFFIX,fc2stream.tv
   - DOMAIN-SUFFIX,mmsw02.com
   - DOMAIN-SUFFIX,roseimgs.com
   - DOMAIN-SUFFIX,streamwish.com
@@ -36,5 +38,3 @@ payload:
   - DOMAIN-SUFFIX,mixdrop.ag
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
-#
-  - DOMAIN-SUFFIX,cdn-jupiter.com
