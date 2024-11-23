@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,streamtape.to
   - DOMAIN-SUFFIX,tapecontent.net
+  - DOMAIN-SUFFIX,watchadsontape.com
  # VOE
   - DOMAIN-SUFFIX,vincentincludesuccessful.com
   - DOMAIN-SUFFIX,voe-network.net
