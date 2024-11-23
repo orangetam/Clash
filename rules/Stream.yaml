@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,rw7ljljeiyz.net
   - DOMAIN-SUFFIX,vidhide.com
   - DOMAIN-SUFFIX,vidhidepro.com
+  - DOMAIN-SUFFIX,milocdn.com
  # DOOD
   - DOMAIN-SUFFIX,d0000d.com
   - DOMAIN-SUFFIX,doodcdn.co
