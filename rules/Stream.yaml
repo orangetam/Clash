@@ -1,11 +1,6 @@
 payload:
  # CN
-  - DOMAIN-SUFFIX,freeok.me
-  - DOMAIN-SUFFIX,freeok.pro
-  - DOMAIN-SUFFIX,freeok.vip
-  - DOMAIN-SUFFIX,jkdy.cc
-  - DOMAIN-SUFFIX,oftens.top
-  - DOMAIN-SUFFIX,wwys.pro
+
  # StreamWish
   - DOMAIN-SUFFIX,cdn-jupiter.com
   - DOMAIN-SUFFIX,fc2stream.tv
@@ -23,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,vincentincludesuccessful.com
   - DOMAIN-SUFFIX,voe-network.net
   - DOMAIN-SUFFIX,voe.sx
+  - DOMAIN-SUFFIX,sandratableother.com
  # VidHide
   - DOMAIN-SUFFIX,enaak-cdn.com
   - DOMAIN-SUFFIX,mmfl04.com
@@ -41,3 +37,9 @@ payload:
   - DOMAIN-SUFFIX,mixdrop.ag
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
+ # JWPlayer
+  - DOMAIN-SUFFIX,emturbovid.com
+  - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,jwplayer.com
+  - DOMAIN-SUFFIX,sptvp.com
+  
