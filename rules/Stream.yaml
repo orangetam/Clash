@@ -2,30 +2,30 @@ payload:
  # CN
 
  # StreamWish
+  - DOMAIN-SUFFIX,cdn-centaurus.com
   - DOMAIN-SUFFIX,cdn-jupiter.com
   - DOMAIN-SUFFIX,fc2stream.tv
   - DOMAIN-SUFFIX,mmsw02.com
   - DOMAIN-SUFFIX,roseimgs.com
   - DOMAIN-SUFFIX,streamwish.com
   - DOMAIN-SUFFIX,sw-cdnstreamwish.com
-  - DOMAIN-SUFFIX,cdn-centaurus.com
  # Streamtape
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,streamtape.to
   - DOMAIN-SUFFIX,tapecontent.net
   - DOMAIN-SUFFIX,watchadsontape.com
  # VOE
+  - DOMAIN-SUFFIX,sandratableother.com
   - DOMAIN-SUFFIX,vincentincludesuccessful.com
   - DOMAIN-SUFFIX,voe-network.net
   - DOMAIN-SUFFIX,voe.sx
-  - DOMAIN-SUFFIX,sandratableother.com
  # VidHide
   - DOMAIN-SUFFIX,enaak-cdn.com
+  - DOMAIN-SUFFIX,milocdn.com
   - DOMAIN-SUFFIX,mmfl04.com
   - DOMAIN-SUFFIX,rw7ljljeiyz.net
   - DOMAIN-SUFFIX,vidhide.com
   - DOMAIN-SUFFIX,vidhidepro.com
-  - DOMAIN-SUFFIX,milocdn.com
  # DOOD
   - DOMAIN-SUFFIX,d0000d.com
   - DOMAIN-SUFFIX,doodcdn.co
@@ -38,8 +38,8 @@ payload:
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
  # JWPlayer
-  - DOMAIN-SUFFIX,emturbovid.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,emturbovid.com
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,sptvp.com
   
