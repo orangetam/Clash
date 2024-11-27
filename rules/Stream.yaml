@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,roseimgs.com
   - DOMAIN-SUFFIX,streamwish.com
   - DOMAIN-SUFFIX,sw-cdnstreamwish.com
+  - DOMAIN-SUFFIX,cdn-centaurus.com
  # Streamtape
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,streamtape.to
