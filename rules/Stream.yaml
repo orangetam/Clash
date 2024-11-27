@@ -2,6 +2,7 @@ payload:
  # CN
 
  # StreamWish
+  - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,cdn-centaurus.com
   - DOMAIN-SUFFIX,cdn-jupiter.com
   - DOMAIN-SUFFIX,fc2stream.tv
