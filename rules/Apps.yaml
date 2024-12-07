@@ -10,8 +10,6 @@ payload:
   - PROCESS-NAME,WeChatOCR.exe
   - PROCESS-NAME,WeChatPlayer.exe
   - PROCESS-NAME,WeChatUtility.exe
- # IDM
-  - PROCESS-NAME,IDMan.exe
  # Thurder
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
@@ -19,8 +17,6 @@ payload:
  # Logitech
   - PROCESS-NAME,LogiLuUpdater.exe
   - PROCESS-NAME,LogiOptionsMgr.exe 
- # Garmin
-  
  # Chrome - Extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
