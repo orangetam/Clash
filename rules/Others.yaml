@@ -1,5 +1,6 @@
 payload:
  # Web
+  - DOMAIN-SUFFIX,fuliba.net
   - DOMAIN-SUFFIX,mpyit.com
   - DOMAIN-SUFFIX,sleazyfork.org
  # Garmin
