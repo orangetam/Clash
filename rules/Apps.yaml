@@ -24,7 +24,6 @@ payload:
  # Chrome - Extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
-  #- DOMAIN-SUFFIX,infinitynewtab.com
   - DOMAIN-SUFFIX,tampermonkey.net
  # Chrome - Scripts
   - DOMAIN-SUFFIX,greasyfork.org
