@@ -1,4 +1,6 @@
 payload:
+ # AMD
+  - PROCESS-NAME,RadeonSoftware.exe
  # Huorong  
   - PROCESS-NAME,BugReport.exe
   - PROCESS-NAME,HRUpdate.exe
