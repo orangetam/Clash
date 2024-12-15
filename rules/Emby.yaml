@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,123456.al
-  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,aca.misakaf.org
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,misakaf.workers.dev
   - DOMAIN-SUFFIX,stream1.misakaf.org
