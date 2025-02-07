@@ -2,6 +2,7 @@ payload:
  # Web
   - DOMAIN-SUFFIX,mpyit.com
   - DOMAIN-SUFFIX,sleazyfork.org
+  - DOMAIN-SUFFIX,greasyfork.org
  # Garmin
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,garmin.com.hk
