@@ -1,4 +1,6 @@
 payload:
+ # System
+  - PROCESS-NAME,BIOS_OTA.exe
  # AMD
   - PROCESS-NAME,RadeonSoftware.exe
  # Huorong  
@@ -12,20 +14,21 @@ payload:
   - PROCESS-NAME,WeChatOCR.exe
   - PROCESS-NAME,WeChatPlayer.exe
   - PROCESS-NAME,WeChatUtility.exe
+  - PROCESS-NAME,Weixin.exe
  # Thurder
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,DownloadSDKServer.exe
-  # Garmin
-  #- PROCESS-NAME,express.exe
+ # Garmin
+  - PROCESS-NAME,express.exe
  # Logitech
   - PROCESS-NAME,LogiLuUpdater.exe
-  - PROCESS-NAME,LogiOptionsMgr.exe 
+  - PROCESS-NAME,LogiOptionsMgr.exe
+  - PROCESS-NAME,logioptionsplus.exe
+  - PROCESS-NAME,logioptionsplus_agent.exe
  # Chrome - Extensions
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bitwarden.net
   - DOMAIN-SUFFIX,tampermonkey.net
- # Chrome - Scripts
-  - DOMAIN-SUFFIX,greasyfork.org
   # MetaCube
   - DOMAIN-SUFFIX,metacubex.one
