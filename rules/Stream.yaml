@@ -29,7 +29,10 @@ payload:
   - DOMAIN-SUFFIX,vidhide.com
   - DOMAIN-SUFFIX,vidhidepro.com
  # DOOD
+  - DOMAIN-SUFFIX,cloudatacdn.com
   - DOMAIN-SUFFIX,d0000d.com
+  - DOMAIN-SUFFIX,ddoodcdn.io
+  - DOMAIN-SUFFIX,dood.video
   - DOMAIN-SUFFIX,doodcdn.co
   - DOMAIN-SUFFIX,doodcdn.com
   - DOMAIN-SUFFIX,dooood.com
@@ -37,8 +40,12 @@ payload:
   - DOMAIN-SUFFIX,video-delivery.net
  # MIXdrop
   - DOMAIN-SUFFIX,mixdrop.ag
+  - DOMAIN-SUFFIX,mixdrop.my
   - DOMAIN-SUFFIX,mixdrop.si
   - DOMAIN-SUFFIX,mxcontent.net
+# BIGWARP
+  - DOMAIN-SUFFIX,bigwarp.cc
+  - DOMAIN-SUFFIX,bigwarp.io
  # JWPlayer
   - DOMAIN-SUFFIX,bootstrapcdn.com
   - DOMAIN-SUFFIX,emturbovid.com
